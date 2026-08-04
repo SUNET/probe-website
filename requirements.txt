@@ -10,3 +10,4 @@ itsdangerous==0.24
 paramiko==2.0.1
 pycrypto==2.6.1
 rauth==0.7.2
+cryptography>=49.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
